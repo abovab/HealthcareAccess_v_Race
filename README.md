@@ -23,3 +23,6 @@ To run from command line:
 
 >python3 Dashboard.py  
 copy url into browser
+
+Sample Display:
+>https://htmlpreview.github.io/?https://github.com/abovab/HealthcareAccess_v_Race/blob/main/sample_display.html
