@@ -7,9 +7,7 @@ between healthcare access, income, life expectancy, and race on the state and co
 
 Contents:
 
-readme.md -- You're looking at it
-
-H.pkl — Dataframe of county data
+readme.md -- You're looking at itn/H.pkl — Dataframe of county data
 
 S.pkl — Dataframe of State data
 
