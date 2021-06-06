@@ -13,6 +13,7 @@ hospital.pkl — Pandas dataframe of hospital data
 Dashboard.py — run dashboard from command line
 Dashboard.ipynb - run dashboard from notebook
 data_prep.ipynb — used to clean and prep data (original data not included)  
+sample_display.html - sample dashboard display, linked below
 
 
 Requirements to Run Dashboard:
