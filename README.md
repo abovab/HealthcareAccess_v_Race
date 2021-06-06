@@ -8,10 +8,15 @@ between healthcare access, income, life expectancy, and race on the state and co
 Contents:
 
 readme.md -- You're looking at it
+
 H.pkl — Dataframe of county data
+
 S.pkl — Dataframe of State data
+
 hospital.pkl — Datframe of hospital data
+
 Dashboard.py — runs dashboard
+
 data_prep.py — program used to clean and prep data (original data not included)
 
 
