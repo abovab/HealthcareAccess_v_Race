@@ -10,8 +10,8 @@ Contents:
 H.pkl — Pandas dataframe of county data  
 S.pkl — Pandas dataframe of State data  
 hospital.pkl — Pandas dataframe of hospital data  
-Dashboard.py — run dashboard from command line
-Dashboard.ipynb - run dashboard from notebook
+Dashboard.py — run dashboard from command line  
+Dashboard.ipynb - run dashboard from notebook  
 data_prep.ipynb — used to clean and prep data (original data not included)  
 sample_display.html - sample dashboard display, linked below
 
